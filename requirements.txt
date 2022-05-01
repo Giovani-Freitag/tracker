@@ -1,5 +1,5 @@
-opencv-python
 tensorflow
+opencv-python
 lxml
 tqdm
 absl-py
